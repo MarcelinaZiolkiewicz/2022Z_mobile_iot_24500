@@ -1,0 +1,1 @@
+C:\Users\ziolo\source\repos\MyFirstApp\MyFirstApp\MyFirstApp.csproj;x64

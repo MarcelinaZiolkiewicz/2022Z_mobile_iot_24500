@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KecyKGIxtGV5kqbjSMbgDKBqZG3hHZqmk9zq/QSFYKBss+qbSyXMySb41zDrNA0vxMgbAxCZdu+Qzoq/NsVVRQ==",
+  "dgSpecHash": "Hgjm5/xl+4434/I4ga9vI6eF9OEB7kZazu7AgnXIlnTIHfetzlrqu5fg/eYgAmL+GWqd8ewE1tjORQhYZUxkvw==",
   "success": true,
-  "projectFilePath": "E:\\MAUI_Tutorial\\Lab2\\Lab2\\Lab2.csproj",
+  "projectFilePath": "E:\\MAUI_Tutorial\\2022Z_mobile_iot_24500\\mobile_iot_lab02\\Lab2\\Lab2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ziolo\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\ziolo\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

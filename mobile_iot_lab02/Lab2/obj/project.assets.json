@@ -24573,11 +24573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MAUI_Tutorial\\Lab2\\Lab2\\Lab2.csproj",
+      "projectUniqueName": "E:\\MAUI_Tutorial\\2022Z_mobile_iot_24500\\mobile_iot_lab02\\Lab2\\Lab2.csproj",
       "projectName": "Lab2",
-      "projectPath": "E:\\MAUI_Tutorial\\Lab2\\Lab2\\Lab2.csproj",
+      "projectPath": "E:\\MAUI_Tutorial\\2022Z_mobile_iot_24500\\mobile_iot_lab02\\Lab2\\Lab2.csproj",
       "packagesPath": "C:\\Users\\ziolo\\.nuget\\packages\\",
-      "outputPath": "E:\\MAUI_Tutorial\\Lab2\\Lab2\\obj\\",
+      "outputPath": "E:\\MAUI_Tutorial\\2022Z_mobile_iot_24500\\mobile_iot_lab02\\Lab2\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

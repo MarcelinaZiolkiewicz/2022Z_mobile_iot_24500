@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mobile_iot_lab05.Pages.NewPage1"
+             Title="Informacje">
+    <VerticalStackLayout>
+        <Label Text="O czym to" TextDecorations="Underline" FontSize="25"/>
+        <Label Margin="10" Text="Aplikacja została zrobiuona na zajęcia podstawy aplikacji mobilnych, można w niej znaleźć 2 zakładki, tą oraz 'Koty typu najlepsze' są to zdjęcia moich kotów " />
+        <Label Text="Dziękuje za weryfikacje i pozdrawiam cieplutko" FontSize="16"/>
+    </VerticalStackLayout>
+</ContentPage>

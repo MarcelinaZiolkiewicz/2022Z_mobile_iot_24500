@@ -7,7 +7,7 @@
     xmlns:views="clr-namespace:mobile_iot_lab05.Pages">
 
 
-    <FlyoutItem Title="Czemu kocham koty">
+    <FlyoutItem Title="Informacje">
         <Tab>
             <ShellContent ContentTemplate="{DataTemplate views:NewPage1}" />
         </Tab>

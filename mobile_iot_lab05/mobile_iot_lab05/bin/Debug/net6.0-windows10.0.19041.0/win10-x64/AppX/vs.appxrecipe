@@ -30,13 +30,13 @@
     <AppXManifest Include="E:\MAUI_Tutorial\2022Z_mobile_iot_24500\mobile_iot_lab05\mobile_iot_lab05\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-01-20T15:26:57.612</Modified>
+      <Modified>2023-01-20T15:39:13.550</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\MAUI_Tutorial\2022Z_mobile_iot_24500\mobile_iot_lab05\mobile_iot_lab05\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-01-20T15:26:57.271</Modified>
+      <Modified>2023-01-20T15:39:13.192</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MAUI_Tutorial\2022Z_mobile_iot_24500\mobile_iot_lab05\mobile_iot_lab05\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mobile_iot_lab05.runtimeconfig.json">
       <PackagePath>mobile_iot_lab05.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MAUI_Tutorial\2022Z_mobile_iot_24500\mobile_iot_lab05\mobile_iot_lab05\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mobile_iot_lab05.dll">
       <PackagePath>mobile_iot_lab05.dll</PackagePath>
-      <Modified>2023-01-20T15:26:56.457</Modified>
+      <Modified>2023-01-20T15:39:12.397</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MAUI_Tutorial\2022Z_mobile_iot_24500\mobile_iot_lab05\mobile_iot_lab05\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>mobile_iot_lab05.exe</PackagePath>
-      <Modified>2023-01-20T15:26:56.464</Modified>
+      <Modified>2023-01-20T15:39:12.402</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ziolo\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.10\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1064,7 +1064,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MAUI_Tutorial\2022Z_mobile_iot_24500\mobile_iot_lab05\mobile_iot_lab05\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mobile_iot_lab05.deps.json">
       <PackagePath>mobile_iot_lab05.deps.json</PackagePath>
-      <Modified>2023-01-20T15:26:57.503</Modified>
+      <Modified>2023-01-20T15:39:13.419</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.541\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
